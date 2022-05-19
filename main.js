@@ -78,7 +78,7 @@ function Passaro(alturaJogo) {
     let voando = false
 
     const Bird = this.elemento = novoElemento('img', 'passaro')
-    this.elemento.src = '../dom/imgs/passaro.png'
+    this.elemento.src = 'dom/imgs/passaro.png'
     this.elemento.style.display = "none";
     document.querySelector(".play").addEventListener("click", function BirdApp() {
         Bird.style.display = "block";
@@ -91,7 +91,7 @@ function Passaro(alturaJogo) {
     document.querySelector(".skin-4")
 ]
 CharArray[0].addEventListener("click", () =>{
-    Bird.src = "./dom/imgs/passaro.png"
+    Bird.src = "dom/imgs/passaro.png"
 })
 CharArray[1].addEventListener("click", () =>{
     Bird.src = "img/skin-flappy-yellow.png"
