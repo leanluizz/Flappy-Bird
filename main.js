@@ -78,7 +78,7 @@ function Passaro(alturaJogo) {
     let voando = false
 
     const Bird = this.elemento = novoElemento('img', 'passaro')
-    this.elemento.src = 'dom/imgs/passaro.png'
+    this.elemento.src = 'img/passaro.png'
     this.elemento.style.display = "none";
     document.querySelector(".play").addEventListener("click", function BirdApp() {
         Bird.style.display = "block";
