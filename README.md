@@ -6,12 +6,12 @@ I've was maked this for some 4 weeks..
 
 In him you choose your Bird and your Map
 
-💻 Techo:
+ Techo:
 
-🔶 - HTML
+ - HTML
 
-🔷 - CSS
+ - CSS
 
-💛 - JavaScript
+ - JavaScript
 
 <a href="https://leanluizz.github.io/Flappy-Bird/" /><strong>Game Layout</strong> Link
