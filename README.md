@@ -14,4 +14,4 @@ In him you choose your Bird and your Map
 
  - JavaScript
 
-<a href="https://leanluizz.github.io/Flappy-Bird/" /><strong>Game Layout</strong> Link
+<a href="https://leanluizz.github.io/Flappy-Bird--Challenge-Clone-Coder-/" /><strong>Game Layout</strong> Link
