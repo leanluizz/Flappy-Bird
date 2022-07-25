@@ -1,4 +1,4 @@
-# Flappy-Bird
+# Flappy-Bird-
 
 <h1> 🐤 - This Flappy-Bird was a game challenged me in many aspects,many mathematics made involved in CSS,Elements created for HTML,DOM manipulation </h1>
 
